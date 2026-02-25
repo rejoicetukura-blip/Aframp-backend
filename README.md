@@ -538,4 +538,6 @@ Please read our [Code of Conduct](./CODE_OF_CONDUCT.md) to understand the standa
 
 MIT - see LICENSE file
 
+mzke with love
+
 ---
